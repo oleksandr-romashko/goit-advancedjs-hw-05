@@ -2,7 +2,7 @@
 // https://www.basedash.com/blog/typescript-gitignore-guide
 
 # Compilation Outputs - Dedicated output directory
-dist/
+# dist/
 build/
 
 # npm or Yarn used to manage project's dependencies
